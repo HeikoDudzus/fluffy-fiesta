@@ -7,4 +7,4 @@ sechs
 sieben
 acht
 neun
-zehn
+zehn modifiziert
